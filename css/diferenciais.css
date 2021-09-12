@@ -44,3 +44,9 @@
 .item__texto {
     line-height: normal;
 }
+
+@media screen and (min-width: 1024px) {
+    .diferenciais__lista {
+        justify-content: space-around;
+    }
+}
